@@ -1,0 +1,3 @@
+In this we need to give the year of which we want to know the calendar.
+When we give the required year as input it dispalys the entire calendar of that year.
+It shows all the dates of all months.
